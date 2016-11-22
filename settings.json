@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnType": true,
+  "go.editor.tabSize": 4,
+  "go.editor.insertSpaces": false,
+  "go.lintOnSave": true,
+  "files.associations": {
+    "*.tmpl": "html",
+    "*.tpl": "html"
+  }
+}
